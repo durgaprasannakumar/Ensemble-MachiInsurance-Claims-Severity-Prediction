@@ -1,0 +1,2 @@
+# Ensemble-MachiInsurance-Claims-Severity-Prediction
+Insurance company is interested in leveraging data science to predict the severity and the cost of insurance claims post an unforeseen event.  Ensemble machine learning project helps to identify the best practices followed in approaching a data analytics problem through python language focusing on using data science packages. Predict how severe insurance claims will be. Accomplished this using ensemble machine learning algorithms.
